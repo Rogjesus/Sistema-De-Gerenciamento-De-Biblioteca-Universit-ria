@@ -73,5 +73,3 @@ Os dados inseridos não são persistidos (sem banco de dados ou localStorage ain
 
 O botão de busca é visual, mas o filtro será implementado em versões futuras.
 
-O projeto é 100% front-end, ideal para fins educacionais.
-
